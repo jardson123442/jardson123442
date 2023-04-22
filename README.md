@@ -1,16 +1,13 @@
-### Hi there 👋
+Ola 😄, eu sou Jardson Venâncio, sou estudante de Análise e Desenvolvimento de Sistemas 💻.
 
-<!--
-**jardson123442/jardson123442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• 🔭 Atualmente trabalho na área farmacêutica 
 
-Here are some ideas to get you started:
+• 📚 Atualmente estou estudando logica da programação em Python, e estou estudando Banco de Dados. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 🔎 Estou em busca de melhorar minha logica em programação e conhecer pessoas para trocarmos conhecimentos.
+
+• 📫 Como me encontrar: jsva123442@gmail.com
+
+• 😄 Prónomes: ele/dele
+
+•⚡ Curiosidade: Amo estudar tudo relacionado a tecnologia.
