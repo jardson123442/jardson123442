@@ -1,13 +1,13 @@
-Ola 😄, eu sou Jardson Venâncio, sou estudante de Análise e Desenvolvimento de Sistemas 💻.
+Olá 😄, eu sou Jardson Venâncio, estudante de Análise e Desenvolvimento de Sistemas 💻.
 
-• 🔭 Atualmente trabalho na área farmacêutica 
+• 🔭 Atualmente trabalho na área farmacêutica.
 
-• 📚 Atualmente estou estudando logica da programação em Python, e estou estudando Banco de Dados. 
+• 📚 Estou aprimorando meu conhecimento em lógica de programação com Python, Java, Salesforce e Banco de Dados.
 
-• 🔎 Estou em busca de melhorar minha logica em programação e conhecer pessoas para trocarmos conhecimentos.
+• 🔎 Procuro melhorar minha lógica de programação e conhecer pessoas para trocar conhecimentos.
 
-• 📫 Como me encontrar: jsva123442@gmail.com
+• 📫 Você pode me encontrar através do e-mail jsva123442@gmail.com.
 
-• 😄 Prónomes: ele/dele
+• 😄 Pronomes: ele/dele.
 
-•⚡ Curiosidade: Amo estudar tudo relacionado a tecnologia.
+• ⚡ Curiosidade: Amo estudar tudo relacionado à tecnologia.
